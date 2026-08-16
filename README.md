@@ -1,6 +1,4 @@
-# Damage Assessment
-
-Car damage assessment library using YOLO-based part detection and geometric reconstruction. Detects car parts, identifies missing parts via geometric models, runs damage detection (severity classification), and scores damage per part.
+A car damage assessment library using YOLO-based part detection and geometric reconstruction. Detects car parts, identifies missing parts via geometric models, runs damage detection (severity classification), and scores damage per part.
 
 ## How it works
 
