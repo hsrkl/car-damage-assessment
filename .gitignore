@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- UV / Virtual Environments ---
+.venv/
+.env
+
+# --- Project Specifics ---
+# Ignore large model files (download them separately or use DVC)
+# *.pt
+# *.onnx
+
+# Ignore local test images and outputs
+*.jpg
+*.jpeg
+*.png
+output/
+test-images/
+data/
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS ---
+.DS_Store
+Thumbs.db

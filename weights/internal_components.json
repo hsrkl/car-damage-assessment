@@ -1,0 +1,21 @@
+{
+  "front_bumper":     ["Radiator", "Condenser", "Crash Bar", "Fog Light Assembly"],
+  "front_grill":      ["Radiator", "Condenser", "Intercooler"],
+  "hood":             ["Engine Cover", "Air Intake", "Battery", "Fuse Box"],
+  "head_light":       ["Headlight Wiring Harness", "DRL Module"],
+  "front_fender":     ["Wheel Arch Liner", "ABS Sensor (Front)", "Suspension Strut"],
+  "front_door":       ["Door Actuator", "Window Regulator", "Side Impact Beam", "Door Wiring Harness"],
+  "front_windshield": ["Windshield Frame", "Wiper Motor", "Defroster Grid"],
+  "side_view_mirror": ["Mirror Actuator", "Blind Spot Sensor"],
+  "roof":             ["Roof Liner", "Sunroof Motor", "Antenna Module"],
+  "quarter_panel":    ["Wheel Arch Liner", "ABS Sensor (Rear)", "Fuel Filler Neck"],
+  "rear_door":        ["Door Actuator", "Window Regulator", "Side Impact Beam", "Door Wiring Harness"],
+  "rear_bumper":      ["Tow Hook", "Parking Sensor Module", "Exhaust Tip"],
+  "rear_windshield":  ["Rear Defroster Grid", "Wiper Motor (Rear)", "Brake Light"],
+  "tail_lamp":        ["Tail Light Wiring Harness", "Reverse Light Module"],
+  "boot":             ["Boot Latch", "Boot Wiring Harness", "Spare Tyre Well"],
+  "rear_number_plate":["Number Plate Light", "Rear Camera Module"],
+  "running_board":    ["Step Motor", "Underbody Shield"],
+  "tyre":             ["Rim", "TPMS Sensor", "Brake Caliper", "Brake Disc"],
+  "under_chassis":    ["Exhaust System", "Fuel Tank", "Drive Shaft", "Differential", "Underbody Shield"]
+}
